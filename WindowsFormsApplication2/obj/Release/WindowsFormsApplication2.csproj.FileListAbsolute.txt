@@ -1,0 +1,7 @@
+D:\4Story Source Code\TCD Editor's\TItem\WindowsFormsApplication2\bin\Release\TItem Редактор.exe
+D:\4Story Source Code\TCD Editor's\TItem\WindowsFormsApplication2\bin\Release\TItem Редактор.pdb
+D:\4Story Source Code\TCD Editor's\TItem\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.Form1.resources
+D:\4Story Source Code\TCD Editor's\TItem\WindowsFormsApplication2\obj\Release\TItem_Editor.Properties.Resources.resources
+D:\4Story Source Code\TCD Editor's\TItem\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.csproj.GenerateResource.Cache
+D:\4Story Source Code\TCD Editor's\TItem\WindowsFormsApplication2\obj\Release\TItem Редактор.exe
+D:\4Story Source Code\TCD Editor's\TItem\WindowsFormsApplication2\obj\Release\TItem Редактор.pdb
